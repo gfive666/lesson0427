@@ -6,5 +6,6 @@ public class Afternoon {
         System.out.println(StringUtils.isBlank(""));
         System.out.println(StringUtils.isBlank("       "));
         System.out.println(StringUtils.isBlank(null));
+        System.out.println(StringUtils.isBlank("123"));
     }
 }
